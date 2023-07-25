@@ -94,7 +94,6 @@ export default function AboutMe() {
               committed to making the web a better, more beautiful, and more
               functional place.
             </MDBCardText>
-            <MDBBtn href="#portfolio">My Apps</MDBBtn>
           </MDBCardBody>
           <MDBCardFooter className="text-muted"></MDBCardFooter>
         </MDBCard>
