@@ -49,7 +49,6 @@ export default function Contact() {
   };
   return (
     <MDBCard alignment="center">
-      <MDBCardHeader></MDBCardHeader>
       <MDBCardBody>
         <MDBCardTitle>CONTACT DETAILS</MDBCardTitle>
         <MDBCardText>
@@ -57,13 +56,10 @@ export default function Contact() {
           provide prompt responses.
         </MDBCardText>
         <MDBCardText>
+          Email us on{" "}
           <a href="mailto:khyati296@gmail.com">khyati296@gmail.com</a>
         </MDBCardText>
-        <span>
-          <a href="https://www.linkedin.com/in/thekhyatigandhi/">
-            LinkedIn {"   "}
-          </a>
-        </span>
+
         <div className="contactMargin">
           <MDBRow className="g-3 align-items-center">
             <MDBInput
