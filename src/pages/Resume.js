@@ -40,12 +40,7 @@ export default function Resume() {
                 Front-End
               </span>
               <br />
-              HTML <br />
-              CSS <br />
-              Javascript <br />
-              JQuery <br />
-              Responsive Design <br />
-              React <br />
+              HTML | CSS | Javascript | JQuery | Responsive Design | React |
               Boostrap
             </div>
           </MDBListGroupItem>
@@ -56,13 +51,8 @@ export default function Resume() {
                 Back-End
               </span>{" "}
               <br />
-              API <br />
-              Node <br />
-              Express <br />
-              MySQL,Sequelize <br />
-              MongoDB, Mongoose <br />
-              REST <br />
-              GraphSQL
+              API | Node | Express | MySQL,Sequelize | MongoDB, Mongoose | REST
+              | GraphSQL
             </div>
           </MDBListGroupItem>
         </MDBListGroup>
