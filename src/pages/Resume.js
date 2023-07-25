@@ -17,7 +17,7 @@ export default function Resume() {
     <div>
       <MDBCard>
         <MDBCardBody>
-          <MDBCardTitle>Competencies</MDBCardTitle>
+          <MDBCardTitle>SKILLS</MDBCardTitle>
           {/* download resume */}
 
           <a
