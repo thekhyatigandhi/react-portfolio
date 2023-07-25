@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router";
-
+import backgroundImage from "../assets/headerImg.png";
 export default function Header() {
   return (
     // <!-- Background image --> */}
@@ -8,30 +8,10 @@ export default function Header() {
       <div
         className="p-5 text-center bg-image"
         style={{
-          backgroundImage: `url("https://pixabay.com/photos/apple-computer-desk-workspace-1868496/")`,
+          backgroundImage: `url(${backgroundImage})`,
           height: "290px",
         }}
-      >
-        <div
-          className="mask"
-          style={{ backgroundColor: "rgba(0, 0, 0, 0.6);" }}
-        >
-          <div className="d-flex justify-content-center align-items-center h-100">
-            <div className="text-white">
-              <h1 className="mb-3">Khyati Gandhi</h1>
-              <h4 className="mb-3">From Idea to Interface! </h4>
-
-              <a
-                className="btn btn-outline-light btn-lg"
-                href="http://localhost:3000/#contact"
-                role="button"
-              >
-                Let's Talk
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
+      ></div>
     </header>
   );
 }

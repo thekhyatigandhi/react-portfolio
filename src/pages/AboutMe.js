@@ -69,30 +69,28 @@ export default function AboutMe() {
           alignment="center"
           className="myBackgroundcard w-auto p-3 text-start"
         >
-          <MDBCardHeader>
-            Let's work together to achieve greatness!
-          </MDBCardHeader>
           <MDBCardBody style={{ backgroundColor: "#F2FCFA" }}>
-            <MDBCardTitle>Background</MDBCardTitle>
+            <MDBCardTitle>BACKGROUND</MDBCardTitle>
             <MDBCardText className="myBackgroundText">
               Khyati Gandhi is an accomplished web developer, designer, and
               coder based in Toronto, Canada. With a keen eye for design and a
               passion for creating elegant and user-friendly applications,
               Khyati is all set to be a leading figure in the development
-              community. She has persude her studies at the prestigious
-              University of Toronto, and is committed to staying on the cutting
-              edge of the latest technological advancements and applying her
-              knowledge to the projects she works on. She possesses a deep
-              understanding of the intricacies of web development, including
-              front-end and back-end technologies, and is proficient in a
-              variety of programming languages. <br />
+              community.
+              <br /> <br />
+              She has persude her studies at the prestigious University of
+              Toronto, and is committed to staying on the cutting edge of the
+              latest technological advancements and applying her knowledge to
+              the projects she works on. She possesses a deep understanding of
+              the intricacies of web development, including front-end and
+              back-end technologies, and is proficient in a variety of
+              programming languages. <br /> <br />
               Khyati's passion for web development is evident in every aspect of
               her work, and she is dedicated to using her skills to make a
               positive impact on the world. Whether developing innovative new
               applications or contributing to existing projects, Khyati is
               committed to making the web a better, more beautiful, and more
-              functional place. <br />
-              <br />
+              functional place.
             </MDBCardText>
             <MDBBtn href="#portfolio">My Apps</MDBBtn>
           </MDBCardBody>
