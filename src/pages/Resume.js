@@ -19,10 +19,11 @@ export default function Resume() {
         <MDBCardBody>
           <MDBCardTitle>Competencies</MDBCardTitle>
           {/* download resume */}
+
           <a
-            href="https://docs.google.com/document/d/1YdJHoDyCnmlmubRMf8nUVF0LAp0u7WxiP10VggYW-Do/edit?usp=sharing"
-            target={"_blank"}
-            download
+            href="https://docs.google.com/document/d/1YdJHoDyCnmlmubRMf8nUVF0LAp0u7WxiP10VggYW-Do/export?format=pdf" // Note the 'export' part in the URL to ensure PDF download
+            target="_blank"
+            download // This will prompt the user to download the PDF
             className="btn btn-primary"
             rel="noreferrer"
           >

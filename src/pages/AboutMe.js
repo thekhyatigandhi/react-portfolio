@@ -48,7 +48,7 @@ export default function AboutMe() {
               </a>
             </span>
             <span>
-              <a href="https://docs.google.com/document/d/1YdJHoDyCnmlmubRMf8nUVF0LAp0u7WxiP10VggYW-Do/edit?usp=sharing">
+              <a href="https://docs.google.com/document/d/1rRwcce0x2eJ5bEQvzju_UDGhgpssTbBnhufhibWEHW0/edit?usp=sharing">
                 Resume{"   "}
               </a>
             </span>
