@@ -35,7 +35,7 @@ export default function Footer() {
             {/* <!-- Google --> */}
             <a
               className="btn btn-link btn-floating btn-lg text-dark m-1"
-              href="#!"
+              href="https://www.google.com/"
               role="button"
               data-mdb-ripple-color="dark"
             >
