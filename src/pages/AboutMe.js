@@ -24,20 +24,22 @@ export default function AboutMe() {
             className="profile-picture"
             alt="profile"
             style={{
-              paddingTop: "35px",
+              paddingTop: "15px",
             }}
           />
           <p
             className="aboutMe text"
             style={{
-              paddingTop: "35px",
+              paddingTop: "15px",
               fontSize: "20px",
             }}
           >
-            Hey, I am Khyati Gandhi and this is the place you translate your
-            ideas to interface.
+            Hello, I'm Khyati Gandhi, and this is where your ideas transform
+            into an exceptional interface.
             <br />
-            Connect with me on khyati296@gmail.com
+            Feel free to connect with me via email at{" "}
+            <a href="mailto:khyati296@gmail.com">khyati296@gmail.com</a> or
+            check out my
             <br />
             <span>
               <a href="https://github.com/thekhyatigandhi">GitHub {"   "} </a>
@@ -69,7 +71,7 @@ export default function AboutMe() {
           alignment="center"
           className="myBackgroundcard w-auto p-3 text-start"
         >
-          <MDBCardBody style={{ backgroundColor: "#F2FCFA" }}>
+          <MDBCardBody style={{ backgroundColor: "#EDE4DB" }}>
             <MDBCardTitle>BACKGROUND</MDBCardTitle>
             <MDBCardText className="myBackgroundText">
               Khyati Gandhi is an accomplished web developer, designer, and
