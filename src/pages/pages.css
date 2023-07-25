@@ -1,0 +1,57 @@
+.HouseHunter {
+  margin-top: 10px;
+  margin-left: 3px;
+  margin-right: 3px;
+  padding: 5px;
+}
+
+.WebApi {
+  margin-top: 12px;
+  margin-left: 3px;
+  margin-right: 3px;
+  padding: 12px;
+  margin: 10px;
+  border: 10px;
+}
+
+.WeatherApp {
+  margin-top: 12px;
+  margin-left: 3px;
+  margin-right: 3px;
+  padding: 12px;
+  margin: 10px;
+  border: 10px;
+}
+.WorkDayScheduler {
+  margin-top: 12px;
+  margin-left: 3px;
+  margin-right: 3px;
+  padding: 12px;
+  margin: 10px;
+  border: 10px;
+}
+.generateMyPasswordTechnologies {
+  margin-top: 12px;
+  margin-left: 3px;
+  margin-right: 3px;
+  padding: 12px;
+  margin: 10px;
+  border: 10px;
+}
+
+.myBackgroundText {
+  text-align: left;
+  font-size: 15px;
+  padding: 50px;
+}
+
+.myBackgroundCard {
+  padding: 50px;
+  border: 50px;
+  margin: 300px;
+}
+
+.card-img-top {
+  height: auto;
+  width: auto;
+}
