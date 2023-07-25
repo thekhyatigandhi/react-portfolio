@@ -51,12 +51,14 @@ export default function Contact() {
     <MDBCard alignment="center">
       <MDBCardHeader></MDBCardHeader>
       <MDBCardBody>
-        <MDBCardTitle>Contact Me</MDBCardTitle>
+        <MDBCardTitle>CONTACT DETAILS</MDBCardTitle>
         <MDBCardText>
           Together, we'll bring added value to your company. Count on us to
           provide prompt responses.
         </MDBCardText>
-        <MDBCardText>khyati296@gmail.com</MDBCardText>
+        <MDBCardText>
+          <a href="mailto:khyati296@gmail.com">khyati296@gmail.com</a>
+        </MDBCardText>
         <span>
           <a href="https://www.linkedin.com/in/thekhyatigandhi/">
             LinkedIn {"   "}
@@ -108,7 +110,6 @@ export default function Contact() {
         </div>
         <MDBBtn href="#">Submit</MDBBtn>
       </MDBCardBody>
-      <MDBCardFooter>Khyati Gandhi</MDBCardFooter>
     </MDBCard>
   );
 }
