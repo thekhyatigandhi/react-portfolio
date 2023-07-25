@@ -8,7 +8,7 @@ export default function Header() {
       <div
         className="p-5 text-center bg-image"
         style={{
-          backgroundImage: `url("https://unsplash.com/photos/zFOm6KzA-7g")`,
+          backgroundImage: `url("https://pixabay.com/photos/apple-computer-desk-workspace-1868496/")`,
           height: "290px",
         }}
       >
