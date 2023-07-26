@@ -2,7 +2,7 @@
 
 ## Description
 
-This react single-page portfolio presents a header with navigation for sections like About Me, Portfolio, Contact, and Resume. Visitors can view the short bio, explore six applications with links to deployments and GitHub repositories, and find a contact form. The footer includes links to the profiles on GitHub, LinkedIn, and another platform, providing easy connections. The design ensures a seamless experience without page reloading when clicking on navigation titles.
+This react portfolio presents a header with navigation for sections like About Me, Portfolio, Contact, and Resume. Visitors can view the short bio, explore six applications with links to deployments and GitHub repositories, and find a contact form. The footer includes links to the profiles on GitHub, LinkedIn, and other platforms, providing easy connections. The design ensures a seamless experience without page reloading when clicking on navigation titles.
 
 - [Application](#Application)
 - [Technologies Used](#TechnologiesUsed)
