@@ -2,7 +2,7 @@
 
 ## Description
 
-The web developer's single-page portfolio presents a header with navigation for sections like About Me, Portfolio, Contact, and Resume. Visitors can view the developer's short bio, explore six applications with links to deployments and GitHub repositories, and find a contact form. The footer includes links to the developer's profiles on GitHub, LinkedIn, and another platform, providing easy connections. The design ensures a seamless experience without page reloading when clicking on navigation titles.
+This react single-page portfolio presents a header with navigation for sections like About Me, Portfolio, Contact, and Resume. Visitors can view the short bio, explore six applications with links to deployments and GitHub repositories, and find a contact form. The footer includes links to the profiles on GitHub, LinkedIn, and another platform, providing easy connections. The design ensures a seamless experience without page reloading when clicking on navigation titles.
 
 - [Application](#Application)
 - [Technologies Used](#TechnologiesUsed)
@@ -22,14 +22,11 @@ The following photos show how the application looks:
 
 ## Technologies Used
 
-![Technologies-used](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)
+![Technologies-used](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Technologies-used](https://img.shields.io/badge/-JavaScript-007396?logo=JavaScript&logoColor=white)
 ![Technologies-used](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
 ![Technologies-used](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=white)
-![Technologies-used](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Technologies-used](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white)
 ![Technologies-used](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white)
-![Technologies-used](https://img.shields.io/badge/-Webpack-8DD6F9?logo=Webpack&logoColor=white)
 
 ## Installation
 
