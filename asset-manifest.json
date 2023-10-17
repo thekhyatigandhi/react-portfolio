@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.427c3615.css",
+    "main.js": "/react-portfolio/static/js/main.df52c8ea.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/ProfilePhoto.jpg": "/react-portfolio/static/media/ProfilePhoto.d4b39a27a312c13b5cf9.jpg",
+    "static/media/WeatherApp.png": "/react-portfolio/static/media/WeatherApp.cc0d75897019d5668b7e.png",
+    "static/media/HouseHunter.png": "/react-portfolio/static/media/HouseHunter.1d81148932cefd506fb4.png",
+    "static/media/WorkDayScheduler.png": "/react-portfolio/static/media/WorkDayScheduler.56d3189b7742d513ac30.png",
+    "static/media/TextEditor.png": "/react-portfolio/static/media/TextEditor.f2e112178958f79ce5c6.png",
+    "static/media/passwordGenerator.png": "/react-portfolio/static/media/passwordGenerator.998bdf09479493da9136.png",
+    "static/media/WebApiQuiz.png": "/react-portfolio/static/media/WebApiQuiz.5840194a23de71eff9d2.png",
+    "static/media/headerImg.png": "/react-portfolio/static/media/headerImg.8103f9bf8575d78141ca.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.427c3615.css.map": "/react-portfolio/static/css/main.427c3615.css.map",
+    "main.df52c8ea.js.map": "/react-portfolio/static/js/main.df52c8ea.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.427c3615.css",
+    "static/js/main.df52c8ea.js"
+  ]
+}
