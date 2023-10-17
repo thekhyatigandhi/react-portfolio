@@ -1,3 +1,4 @@
+/* General Styles */
 .App {
   text-align: center;
 }
@@ -37,20 +38,21 @@
   }
 }
 
+/* Mobile-Specific Styles */
 .profile-picture {
-  width: 24%;
-  height: 11%;
+  width: 24%; /* You can keep the layout while adjusting the size */
+  max-width: 100%; /* Ensure it doesn't overflow on mobile */
 }
+
 .aboutMe {
-  display: inline;
-  line-height: 35px;
-  margin-left: 130px;
-  flex-wrap: wrap;
+  text-align: center; /* Center text */
+  line-height: 1.5; /* Improve readability on mobile */
+  margin-left: 10px; /* Adjust margin for better spacing */
 }
 
 .contactMargin {
-  margin: "400px";
-  padding: 50px;
+  margin: 10px; /* Reduce margin */
+  padding: 10px; /* Adjust padding */
 }
 
 .aboutMeContainer {
@@ -60,18 +62,19 @@
 }
 
 img {
-  max-width: 100%;
+  max-width: 100%; /* Ensure images don't overflow on mobile */
 }
 
 .profile-pic {
   flex-basis: 60%;
-  margin: 26px;
+  margin: 10px; /* Adjust margin for better spacing */
 }
 
 .text {
-  font-size: 20px;
-  padding-left: 20px;
+  font-size: 16px; /* Smaller font size for mobile */
+  padding-left: 10px; /* Adjust padding for better spacing */
 }
 
 .maifrigoTechnologies {
+  /* Define mobile-friendly styles if necessary */
 }
